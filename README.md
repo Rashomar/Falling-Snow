@@ -1,5 +1,5 @@
 # Falling-Snow
-The effect of falling snow.
+This is a JavaScript app that can create a snowfall effect on a web page's canvas element. It animates snowflakes falling down the screen while drawing a snowman on the same canvas. 
 [Demo](https://rashomar.github.io/Falling-Snow/)
 
 
